@@ -1,0 +1,9 @@
+name: EveryCreeper
+version: '0.1'
+main: me.nxmnt.everyCreeper.EveryCreeper
+api-version: '1.21'
+commands:
+  everycreeper:
+    description: EveryCreeper
+    usage: /everycreeper <on|off|toggle|status>
+    aliases: [ec]
